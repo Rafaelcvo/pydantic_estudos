@@ -1,2 +1,3 @@
-# pydantic_estudos
+# Pydantic
+
 Repositório de estudos do Pydantic
